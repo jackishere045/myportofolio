@@ -2,7 +2,8 @@
 
 A responsive and interactive personal portfolio website built with **React**, **Firebase Firestore**, and **Material UI**. This site showcases my projects, certificates, and technology stack with smooth animations using **AOS** and a tabbed interface for better user experience.
 
-![Preview website](https://jackdev-portofolio.netlify.app/)
+🔗 **Live Preview:** [https://jackdev-portofolio.netlify.app/](https://jackdev-portofolio.netlify.app/)
+
 
 ---
 
